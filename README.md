@@ -1,0 +1,2 @@
+# CGI
+Pure CGI Server.
